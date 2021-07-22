@@ -1,0 +1,13 @@
+# Hide History files of Altium Designer
+History
+
+# Hide logs of Altium Designer
+Project Logs for ADLibrary
+
+# Hide previes of Altium Designer
+__Previews
+
+# Hide all files starts "~$"
+**/~$*.*
+
+
